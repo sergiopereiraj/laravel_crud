@@ -93,7 +93,9 @@ Accede a la API en: [http://localhost:8000/api/notes](http://localhost:8000/api/
 | GET    | /api/notes/{id}   | Ver detalle de una nota   |
 | POST   | /api/notes        | Crear una nueva nota      |
 | DELETE | /api/notes/{id}   | Eliminar una nota         |
+| PUT    | /api//notes/{id}  | Actualizar nota           |
 
+*A pesar de no ser solicitado en la prueba tecnica, agregue el metodo PUT
 ---
 
 ## ✨ Extras (Versión Plus)
